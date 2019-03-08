@@ -1,2 +1,2 @@
 # Adventures-in-GO
-This is where I will store my source files for tiny projects that I will inevitably have throughout my time getting used to GO. 
+This is where I will store my source files for tiny projects that I will inevitably have throughout my time getting used to GO. I recently switched to Linux from Windows and found myself needing a new programming language that was cross-platform and that wasnt C++. So, When i found GO and noticed how straightforward it is I had to pick it up and try it. The Source files in this repository may be broken or missing peices. I am just trying to sort of document my journey.
